@@ -19,7 +19,7 @@ Hey, I'm Brute. 👋
 
 
 ## ⛭ Github Statistics
-![Visitors](https://komarev.com/ghpvc/?username=bruteakasylo&color=blue)
+![Visitors](https://komarev.com/ghpvc/?username=bruteakasylo&color=blueviolet)
 
 [![GitHub Streak ](http://github-readme-streak-stats.herokuapp.com?user=bruteakasylo&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
