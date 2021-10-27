@@ -15,7 +15,7 @@ Hey, I'm Brute. 👋
 
 - Keybase: [@bruteakasylo](https://keybase.io/bruteakasylo)
 - Instagram: [@brute.sh](https://www.instagram.com/brute.sh/)
-- Email: bruteakasylo@gmail.com
+- Email: bruteakasylo@tutanota.com
 
 
 ## ⛭ Github Statistics
