@@ -3,8 +3,6 @@
 Hey, I'm Brute. 👋
 
 - I am a developer of C# and WPF but most likely will be learning more in the future.
-- I am also a member of Courtecy Network.
-- I am a Ex-Black Hat & Gray Hat Hacker.
 - I am interested in Software Development (Mainly UI Design).
 
 ## 🔭 Projects
