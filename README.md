@@ -2,8 +2,7 @@
 
 Hey, I'm Brute. 👋
 
-- I am a developer of C# and WPF but most likely will be learning more in the future.
-- I am interested in Software Development (Mainly UI Design).
+- I am a ex developer of C#, WPF and Python.
 
 ## 🔭 Projects
 
