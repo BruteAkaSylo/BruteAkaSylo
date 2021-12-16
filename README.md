@@ -2,11 +2,12 @@
 
 Hey, I'm Brute. 👋
 
-- I am a ex developer of C#, WPF and Python.
+- I am a developer of C#, WPF and Python.
 
 ## 🔭 Projects
 
 - CLIMenuBase
+- GGCheats (Private)
 
 ## 🤝 Contact Me
 
