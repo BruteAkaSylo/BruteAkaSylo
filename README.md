@@ -11,10 +11,11 @@ Hey, I'm Brute. 👋
 
 ## 🤝 Contact Me
 
-- Telegram (Most active): [@BruteAkaSylo](https://t.me/BruteAkaSylo)
+- Session (Will be added soon)
+- Telegram (Will be added back soon)
 - Keybase: [@bruteakasylo](https://keybase.io/bruteakasylo)
 - Instagram: [@brute.sh](https://www.instagram.com/brute.sh/)
-- Email: bruteakasylo@tutanota.com
+- Email: [bruteakasylo@proton.me](mailto:bruteakasylo@proton.me?subject=[GitHub]%20Source%20BruteAkaSylo)
 
 
 ## ⛭ Github Statistics
