@@ -7,6 +7,7 @@ Hey, I'm Brute. 👋
 ## 🔭 Projects
 
 - CLIMenuBase
+- Windows 11 Pro Activator (Will be updated soon to support more versions!)
 - GGCheats (Private)
 
 ## 🤝 Contact Me
